@@ -1,0 +1,28 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css");
+
+html, body {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  background-color: #303846;
+}
+
+.inner {
+  background-color: firebrick;
+  padding: 2px;
+}
+
+header {
+  font-size: 35px;
+  text-align: center;
+  padding: 100px;
+}
+
+header h1 {
+  color: white;
+  font-family: sans-serif;
+}
+
+.title {
+  text-align: center;
+}
